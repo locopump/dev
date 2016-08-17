@@ -27,4 +27,5 @@ Class ChangeString{
 }
 // El equipo no cuenta con WAMPSERVER, EDITOR DE CODIGO Y GIT
 // Yo tenia cuenta en bitbucket, y acabo de crear en github, pero no hay GIT para subir el archivo
+// No podía probar si funcionaba mi código
 ?>
